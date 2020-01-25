@@ -5,7 +5,11 @@
 }
 .banner{
     width:100%;
+<<<<<<< HEAD
     background-image:url("content/images/images.jpeg");
+=======
+    background-image:url(images/img.jpeg);
+>>>>>>> update
     background-size:cover;
     min-height:400px;
     float:right;
